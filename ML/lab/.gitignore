@@ -1,3 +1,7 @@
 /lab1/*.zip
 /lab1/*.csv
 /lab1/.ipynb_checkpoints/*
+/lab2/*.zip
+/lab2/*.csv
+/lab2/.ipynb_checkpoints/*
+/lab2/*.pdf
